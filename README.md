@@ -1,4 +1,4 @@
-# Sentiment-Dynamics-of-AI-Discourse
+
 # Sentiment-Dynamics-of-AI-Discourse
 
 This repository contains the code, intermediate results, and analysis materials for the study:
